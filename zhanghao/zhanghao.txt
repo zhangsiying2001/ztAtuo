@@ -1,7 +1,6 @@
-zhengqianlo1=liubaoli1
-zhengqianlo2=liubaoli1
-zhengqianlo3=liubaoli1
-zhengqianlo4=liubaoli1
-zhengqianlo5=liubaoli1
-zhengqianlo6=liubaoli1
-zhengqianlo6=liubaoli1
+jdwt0026=zn901217
+jdwt0027=zn901217
+jdwt0028=zn901217
+jdwt0029=zn901217
+jdwt0030=zn901217
+jdwt0031=zn901217
